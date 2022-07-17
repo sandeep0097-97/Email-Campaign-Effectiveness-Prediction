@@ -49,4 +49,4 @@ Raw Data is being kept  within this repo.
 
 Complete notebook containing Data exploration/Data processing/transformation/model development is being kept here
 
-Feel free to contact  with any questions.
+Feel free to contact me @sandeepmaths04@gmail..com with any questions.
